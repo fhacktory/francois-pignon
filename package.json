@@ -1,0 +1,22 @@
+{
+  "name": "francois-pignon",
+  "version": "1.0.0",
+  "description": "fhacktory 2k18 - je prends l'accent belge ?",
+  "main": "main.py",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fhacktory/francois-pignon.git"
+  },
+  "author": "DGTL",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fhacktory/francois-pignon/issues"
+  },
+  "homepage": "https://github.com/fhacktory/francois-pignon#readme"
+}
